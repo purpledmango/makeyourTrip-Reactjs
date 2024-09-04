@@ -72,7 +72,7 @@ export const otherServicesMenu = [
   },
 ];
 
-const largeScreenServices = [
+export const largeScreenServices = [
   {
     name: "flight",
     logo: <FaPlaneDeparture />,
